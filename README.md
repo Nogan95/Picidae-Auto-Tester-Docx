@@ -14,7 +14,7 @@ Picidae Auto Tester는 별도의 설치가 필요 없는 프로그램입니다. 
 
 | Build Date | Version | Link |
 | :---: | :---: | :---: |
-| 2019.10.05 | 0.8 | [Download](./) |
+| 2019.10.05 | 0.8 | [Download](https://k.kakaocdn.net/dn/LNGMl/btqyQp0NVcU/HGJRnfks8fyrHM8LAv7Qs0/Picidae-Auto-Tester.zip?attach=1&knm=tfile.zip) |
 
 또는 [Github](https://github.com/Nogan95/Picidae-Auto-Tester)에서 소스코드를 다운받아 직접 빌드할 수 있습니다.
 
