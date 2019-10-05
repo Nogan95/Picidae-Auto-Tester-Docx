@@ -1,8 +1,8 @@
 # AutoTester.exe
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%284%29.png)
 
-AutoTester.exe 를 실행하면 편집기인 Picidae Autotest Editor가 실행됩니다.
+AutoTester.exe 를 실행하면 편집기인 **Picidae Autotest Editor**가 실행됩니다.
 
 ## 메뉴
 
@@ -42,11 +42,11 @@ AutoTester.exe 를 실행하면 편집기인 Picidae Autotest Editor가 실행�
 
 * 이벤트는 Picidae Auto Tester의 최소 실행 단위입니다.
 * 이벤트의 속성은 아래와 같습니다.
-  * Type : 이벤트의 종류를 나타냅니다.
-  * Tag : 이벤트를 식별하기 위한 태그입니다.
-  * Position : 마우스 이동 이벤트들을 위한 좌표 입니다. 그 외의 이벤트에서는 아무런 영향이 없습니다.
-  * Interval : 이벤트의 시간 간격입니다. 해당 이벤트를 실행후 Interval만큼 대기합니다. 단위는 ms입니다.
-  * Keyboard : 키보드 입력 이벤트를 위한 필드입니다. 적힌 내용에 대해 키 이벤트를 발생시킵니다.
+  * **Type** : 이벤트의 종류를 나타냅니다.
+  * **Tag** : 이벤트를 식별하기 위한 태그입니다.
+  * **Position** : 마우스 이동 이벤트들을 위한 좌표 입니다. 그 외의 이벤트에서는 아무런 영향이 없습니다.
+  * **Interval** : 이벤트의 시간 간격입니다. 해당 이벤트를 실행후 Interval만큼 대기합니다. 단위는 ms입니다.
+  * **Keyboard** : 키보드 입력 이벤트를 위한 필드입니다. 적힌 내용에 대해 키 이벤트를 발생시킵니다.
 
 ## 이벤트집합
 
@@ -62,7 +62,7 @@ AutoTester.exe 를 실행하면 편집기인 Picidae Autotest Editor가 실행�
 
 ### 이벤트 집합에 이벤트 추가하기 1
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 * 이벤트 집합 목록 상단의 + 버튼을 클릭힙니다.
 * 이벤트를 선택하고 빈 필드를 채운뒤 추가 버튼을 클릭합니다...
@@ -84,14 +84,14 @@ AutoTester.exe 를 실행하면 편집기인 Picidae Autotest Editor가 실행�
 
 ### 워크플로우에 이벤트 추가하기 1
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image.png)
 
 * 워크플로우 집합 목록 상단의 + 버튼을 클릭힙니다.
 * 이벤트를 선택하고 빈 필드를 채운뒤 추가 버튼을 클릭합니다...
 
 ### 워크플로우에 이벤트 추가하기 2
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 
 * **도구 - 이미지 좌표로 워크플로우 작성**을 클릭합니다.
 * 이미지 추가 버튼을 누르고 좌표를 추적할 화면의 스크린샷을 불러옵니다.
